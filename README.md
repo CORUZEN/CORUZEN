@@ -10,7 +10,7 @@
 
 `Enterprise Software` · `Cybersecurity` · `SaaS` · `Automation` · `Mobile` · `PWA`
 
-**4 Production Systems** &nbsp;·&nbsp; **20+ Businesses Served** &nbsp;·&nbsp; **24/7 Operations** &nbsp;·&nbsp; **99.9% Availability**
+**8 Production Systems** &nbsp;·&nbsp; **20+ Businesses Served** &nbsp;·&nbsp; **24/7 Operations** &nbsp;·&nbsp; **99.9% Availability**
 
 <sub><strong>Secure by design · Built for production · Engineered to scale</strong></sub>
 
